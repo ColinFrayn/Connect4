@@ -1,0 +1,6 @@
+Todo.txt For ColConnect4
+------------------------
+
+Scoring?  Is it really worth it?
+
+Make sure that top level moves are immediately discarded if they've been shown to lose before.
